@@ -1,0 +1,5 @@
+name_of_the_architect = input()
+projects = int(input())
+total_time_needed_to_complete_projects = projects * 3
+print(f"The architect {name_of_the_architect} will need {total_time_needed_to_complete_projects} hours to complete {projects}"
+      f" projects./")
